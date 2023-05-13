@@ -22,5 +22,10 @@ https://github.com/cassiano-dio/cibersecurity-desafio-ransomware
 
 
 
+https://github.com/cassiano-dio/desafio-modulo2-cibersecurity
+https://github.com/cassiano-dio/cibersecurity-desafio-phishing
+
+
+
 
 
